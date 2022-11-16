@@ -1,6 +1,6 @@
 # Predicting_Customer_Ad_Clicks
 
-**Code**: [Predicting Customer Ad Clicks.ipynb]()
+**Code**: [Predicting Customer Ad Clicks.ipynb](https://github.com/Sharma-Amol/Predicting_Customer_Ad_Clicks/blob/main/Predicting%20Customer%20Ad%20Clicks.ipynb)
 
 **Context**
 
@@ -33,6 +33,7 @@ This data set contains the following features:
 
 **Dataset**
 
+[advertising.csv](https://github.com/Sharma-Amol/Predicting_Customer_Ad_Clicks/blob/main/advertising.csv)
 
 Provided as part of fantastic course 'Python for Data Science and Machine Learning Bootcamp' by Jose Portilla on [Udemy](https://www.udemy.com/course/python-for-data-science-and-machine-learning-bootcamp/) that I am following.
 
